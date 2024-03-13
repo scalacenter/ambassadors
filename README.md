@@ -18,8 +18,10 @@ The qualification criteria to become an Ambassador are as follows:
 ## Resources
 The following are the links to resources that clarify various aspects of the story around Scala, its development and usage (TBD):
 
-- Compatibility Guarantees.
-- SC & Scala Roadmap.
-- Scala Toolkit.
-- Migration story.
-- Scalajs, Scala native (Scala 3 support, WASM) - thread
+- [Compatibility Guarantees](https://virtuslab.com/blog/technology/the-scala-3-compatibility-story/)
+- [Scala Center Roadmap for 2024](https://www.scala-lang.org/blog/2024/02/06/scala-center-2024-roadmap.html)
+- Scala Roadmap -- to be published soon
+- [Scala Toolkit](https://docs.scala-lang.org/toolkit/introduction.html)
+- [Migrating from Scala 2 to Scala 3](https://docs.scala-lang.org/scala3/guides/migration/compatibility-intro.html)
+- Scala.js 1.x and Scala Native 0.4.x/0.5.x are both fully supported on Scala 3 (no real link for that but [this blog post](https://www.scala-lang.org/2020/11/03/scalajs-for-scala-3.html) is a good resource if you *really* want a link).
+- Scala on Wasm (WebAssembly) is an experiment in progress (see [GitHub issue](https://github.com/scala-js/scala-js/issues/4928))
