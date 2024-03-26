@@ -1,21 +1,33 @@
-# The Scala Center Ambassadors Program
-The Ambassador Program is a community initiative designed to amplify the official messaging around Scala, show that it is reasonably easy to pick up, promote Scala as a language, and improve the communication link between the Scala Center and the community. Another objective of the program is to effectively collect people's feedback on the state of things in the community and industry.
+# Scala Ambassadors
+
+Scala Ambassadors are leaders and key figures in the Scala community.
+
+Ambassadors have volunteered to work with the Scala Center and the community to:
+
+* promote a positive image of Scala
+* improve communication between everyone involved with Scala
+* aid and support each other's efforts
 
 ## The Ambassador Role
-The program introduces the role of an Ambassador that can be assumed by any person from the community, provided they satisfy qualification criteria. The Ambassadors will:
 
-- Be consistently present at their local community events.
+Ambassadors are encouraged to:
+
+- Be present whenever possible at their local community events.
 - Start new community events if they aren't already happening.
 - Be visible to other community members as Ambassadors.
-- Be perceived by the other community members as go-to people to find official answers to Scala-related questions and to propagate the feedback to the core team.
+- Be perceived by the other community members as go-to people to find high quality answers to Scala-related questions
+- Relay community feedback to the Scala organization
 
-The qualification criteria to become an Ambassador are as follows:
+The Center selects Ambassadors who have:
 
-- Track record of activity in the community - events, forums, OSS etc.
-- No track record of unprofessional behaviour.
-- Knowledgeability about Scala and its community.
+- Strong knowledge of Scala and its community
+- A positive track record of activity in the community - conferences, meetups, forums, chat rooms, open source projects, and so on
+- No track record of unprofessional behavior
+
+Want to be an Ambassador? Please get in touch!
 
 ## Resources
+
 The following are the links to resources that clarify various aspects of the story around Scala, its development and usage (TBD):
 
 - [Compatibility Guarantees](https://virtuslab.com/blog/technology/the-scala-3-compatibility-story/)
