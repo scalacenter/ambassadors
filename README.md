@@ -39,3 +39,7 @@ The following are the links to resources that clarify various aspects of the sto
 - Scala on Wasm (WebAssembly) is an experiment in progress (see [GitHub issue](https://github.com/scala-js/scala-js/issues/4928))
 - [Scala 3 LTS](https://www.scala-lang.org/blog/2023/05/30/scala-3.3.0-released.html)
 - [Scala 3 Roadmap 2024](https://virtuslab.com/blog/technology/scala-3-roadmap-for-2024/)
+
+During events, you can also print and use the following leaflet with the above links as QR codes:
+
+<a href="Leaflet.png" target="_blank"><img src="Leaflet.png" alt="Scala Ambassador Leaflet" style="width:75%;"></a>
