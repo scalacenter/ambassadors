@@ -8,6 +8,14 @@ Ambassadors have volunteered to work with the Scala Center and the community to:
 * improve communication between everyone involved with Scala
 * aid and support each other's efforts
 
+## This Repo
+
+This repository is a tool aimed to help the Ambassadors in their community-building activities. It fulfills the following objectives:
+
+- **Knowledge Sharing**. It contains a growing body of resources that Ambassadors use to help each other help others. This, for example, can be materials on how someone can start a new Scala meetup, or become a speaker at one. If one Ambassador already has a good answer to those and other questions, they can share it with the other Ambassadors in this repo.
+- **Discussion** of important topics in public. This can be, for example, questions about evolving the Ambassador program itself, which can be discussed in the form of discussions or issues.
+- **Organization** and coordination of community events and projects.
+
 ## The Ambassador Role
 
 Ambassadors are encouraged to:
