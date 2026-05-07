@@ -10,6 +10,12 @@ For example, we might develop materials on how someone can start a new Scala mee
 
 ## Resources for Ambassadors
 
+### Discord channel
+
+Ambassadors can talk to each other on the private #ambassadors channel on the [Scala Discord](https://discord.com/invite/scala).
+
+(If you are an Ambassador but don't have access to the channel, contact the Scala Center.)
+
 ### Leaflet
 
 During events, you can also print and use the following leaflet with the above links as QR codes:
